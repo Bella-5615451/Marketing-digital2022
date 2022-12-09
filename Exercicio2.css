@@ -1,0 +1,28 @@
+ul{
+    list-style-type: none;
+    background-color:gray ;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    color:rgb(255, 255, 255);
+}
+li{
+    float: left;
+    border:1px solid white;
+}
+li a{
+    text-decoration: none;
+    text-align: center;
+    color:white ;
+    padding: 16px 16px;
+    display: block;
+}
+li a:hover{
+    background-color:skyblue;
+}
+.icones{
+    color:rgb(255, 255, 255);
+}
